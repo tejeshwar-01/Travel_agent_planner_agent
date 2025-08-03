@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.env
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Credentials or API keys
+apikey.txt
+*.key
+*.pem
+credentials.json
+
+# VS Code or IDE settings
+.vscode/
+
+# MacOS
+.DS_Store
