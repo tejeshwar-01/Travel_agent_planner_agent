@@ -35,3 +35,17 @@ pip install -U ibm_watsonx_ai pillow requests
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## ⚠️ Security Notice
+
+This project may include placeholders or examples involving API keys or credentials (e.g., for IBM Watsonx.ai).
+
+- **Do NOT use someone else's API keys** or credentials found online or in public code.
+- **Do NOT commit your own sensitive credentials** (API keys, tokens, `.env` files) to public repositories.
+- You are responsible for securing and managing your own API access.
+
+If you use IBM Watsonx or any external service, make sure you:
+- Have a valid account
+- Use **your own** credentials
+- Follow the service’s Terms of Use
+
