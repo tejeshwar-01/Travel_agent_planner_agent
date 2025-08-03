@@ -19,3 +19,9 @@ credentials.json
 
 # MacOS
 .DS_Store
+
+*.env
+apikey.txt
+*.key
+*.pem
+credentials.json
